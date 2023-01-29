@@ -1,1 +1,2 @@
 # MAX30100-on-smartwatch-
+This is a project is about making a smartwatch that can be used as a fitness tracker and also as an ordinary digital watch, it uses the MAX30100 sensor to collect medical data from the human body, it also uses an LCD screen to display this data, such as creating a graphical representation depicting heart rate in real time. It also has 3 external buttons to select the preferred option displayed on the LCD menu.
